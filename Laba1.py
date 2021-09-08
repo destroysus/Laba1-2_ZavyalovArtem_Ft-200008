@@ -1,5 +1,5 @@
-a=int(input())
-b=int(input())
+a=float(input())
+b=float(input())
 c=a+b
 d=a-b
 e=abs((a+b))/2
